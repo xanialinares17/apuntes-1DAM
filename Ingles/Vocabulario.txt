@@ -2,3 +2,5 @@ Unit 1: Technology vocabulary
 - Computer
 - Software
 - Hardware
+- Database
+- Code
